@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali Zehri</h1>
 <h3 align="center">Computer Science Student | Cyber Security Enthusiast</h3>
 <img width="400" alt="Coding" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lzdDZud3MzY3liMmRuaGw5ZWpsaXRrem05Z3kyZzg3cnQ1N2F1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<img width="400" alt="Coding" align="right" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lzdDZud3MzY3liMmRuaGw5ZWpsaXRrem05Z3kyZzg3cnQ1N2F1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://camo.githubusercontent.com/e02c901965934f0596aebd1e107b591b4a4c9ec21ab01a0936fed761eaa242b7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ali-zehri&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ali-zehri" /> </p>
 
