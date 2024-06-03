@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ali-zehri&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ali-zehri" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security Frameworks, Mobile development Web3 and blockchain development**
+- 🌱 👋 Hi there! I'm a self-taught ICT engineering student with a deep passion for cybersecurity. My journey in the tech world is driven by curiosity and a relentless desire to learn and innovate. I thrive on solving complex problems and enjoy working on projects that challenge my skills and expand my knowledge.**
 
 - 📫 How to reach me **mohamedali.zehri1@gmail.com**
 
