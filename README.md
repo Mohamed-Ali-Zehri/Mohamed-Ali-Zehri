@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **Red Teaming and Blue Teaming**
 
-- 💬 Ask me about **Linux Powershell**
+- 💬 Ask me about **Information Security**
 
 - 📫 How to reach me **mohamedali.zehri@supcom.tn**
+<script src="https://tryhackme.com/badge/1472692"></script>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
